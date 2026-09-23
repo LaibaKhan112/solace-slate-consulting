@@ -10,8 +10,8 @@ import ContactForm from "@/components/contact/ContactForm";
 ========================================================= */
 
 const CONTACT_EMAIL = "hello@solaceandslate.com";
-const CONTACT_PHONE = "(555) 010-2030";
-const CONTACT_LOCATION_CITY = "City, State";
+const CONTACT_PHONE = "+1 (720) 215-7689";
+const CONTACT_LOCATION_CITY = "Littleton, Colorado, United States";
 const CONTACT_LOCATION_NOTE = "Serving clients nationwide";
 
 /* =========================================================

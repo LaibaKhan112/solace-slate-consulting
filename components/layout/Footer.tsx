@@ -300,10 +300,15 @@ function ConnectColumn() {
       </p>
 
       <div className="mt-3 flex flex-col gap-2.5">
-        <span className="flex items-center gap-2.5 text-sm text-muted-foreground/75">
+        <a
+          href="https://linkedin.com/in/rachel-zandlo"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-2.5 text-sm text-foreground underline-offset-4 transition-colors hover:text-primary hover:underline"
+        >
           <LinkedInIcon />
-          LinkedIn (Personal - coming soon)
-        </span>
+          LinkedIn (Personal)
+        </a>
 
         <span className="flex items-center gap-2.5 text-sm text-muted-foreground/75">
           <LinkedInIcon />
